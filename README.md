@@ -19,6 +19,6 @@ This Python script fetches real-time cryptocurrency price data from the [CoinGec
 - `python-dotenv`
 
 Install the required dependencies with:
-
+create .env with (API_KEY = your coingecko api key) in it
 ```bash
 pip install -r requirements.txt
